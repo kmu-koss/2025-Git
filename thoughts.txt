@@ -1,0 +1,2 @@
+git의 기본적인 명령어에 대해서 배웠다.
+git add, git commit -m"", git push/pull, git branch/checkout 등에 대해 알게 되었다.
