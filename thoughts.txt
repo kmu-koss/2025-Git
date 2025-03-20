@@ -1,0 +1,24 @@
+fork
+깃허브로 가져오기
+git branch 브랜치 이름 -> 브랜치 생성
+git branch -> 만든 브랜치 알려줌
+
+실습 때 develop은 feature 1과 같음
+git checkout 브랜치 이름 -> 다른 브랜치로 옮겨가기
+
+git branch develop
+git branch -> main이 초록색 글씨
+
+git checkout develop
+git branch -> develop이 초록색 글씨
+
+github를 새로고침하는 걸 까먹지 말자!
+
+merge는 순서가 중요
+(안 지키면 망함)
+
+오늘 배운 것 중에 적어봤어요
+
+
+소감 :
+작년에도 했었는데 그때는 첫 스터디를 참여 못 했어서 이해안되고 어려웠는데 올해 차근차근 알려주시고 완전 이해 잘돼서 엄청 좋았습니다.
