@@ -1,0 +1,9 @@
+평소 github desktop을 활용했어서 git branch를 특별히 쓰거나 배울 일이 없었는데 이번 기회에 알게 되어 즐거웠습니다.
+git add [파일이름.확장자]
+git add .
+git commit -m "커밋 이름"
+git push origin [브랜치 이름, 기본 : main]
+git pull origin ["]
+git merge [나눴던 브랜치, 이제 합쳐버릴 예정인 것]
+git checkout [이동할 브랜치, 커서를 이동하는 느낌]
+아직다못썼느데
